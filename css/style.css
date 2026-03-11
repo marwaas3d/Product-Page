@@ -403,6 +403,10 @@ header {
     .hero {
         & .hero-container {
             flex-direction: column;
+
+            & .img-wrapper {
+                margin-bottom:64px;
+            }
         }
     }
 }

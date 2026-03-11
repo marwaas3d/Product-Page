@@ -48,7 +48,7 @@ The goal of this project is to practice **modern frontend layout techniques, res
 * **Maximum Range:** 10 km
 * **Maximum Speed:** 68 km/h
 * **AI Obstacle Avoidance:** 360°
-* **Weather Resistance:** IPX4 ([Drone Product Page][1])
+* **Weather Resistance:** IPX4 
 
 ---
 

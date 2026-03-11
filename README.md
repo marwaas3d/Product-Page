@@ -13,7 +13,7 @@ The page focuses on delivering a clean UI and responsive layout for an engaging 
 
 ## 📌 Overview
 
-This project is a **single product landing page** for a professional drone called **DJI Mavic 4 Pro**, highlighting its key features such as an **8K camera, 40-minute flight time, and AI obstacle avoidance** to attract photographers, filmmakers, and content creators. ([Drone Product Page][1])
+This project is a **single product landing page** for a professional drone called **DJI Mavic 4 Pro**, highlighting its key features such as an **8K camera, 40-minute flight time, and AI obstacle avoidance** to attract photographers, filmmakers, and content creators.
 
 The goal of this project is to practice **modern frontend layout techniques, responsive design, and product-focused UI/UX**.
 
